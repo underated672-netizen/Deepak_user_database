@@ -12,5 +12,5 @@ A secure backend authentication and authorization system built with **FastAPI** 
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-github-repo-url>
-   cd arah-auth-system
+   git clone <https://github.com/underated672-netizen/Deepak_user_database>
+   cd Deepak_user_database
